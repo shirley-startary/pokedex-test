@@ -28,12 +28,12 @@ Un pokédex es un pequeño repositorio de Pokémon donde puedes ver todos los Po
 ## Mockups  
 - Desktop
 
-  ![Home]('./public/mockups/Home.jpg')
-  ![Detail]('./public/mockups/Detail.jpg')
+  ![Home](https://github.com/shirley-startary/pokedex-test/blob/main/public/mockups/Home.jpg?raw=true)
+  ![Detail](https://github.com/shirley-startary/pokedex-test/blob/main/public/mockups/Detail.jpg?raw=true)
 
 - Mobile
  
-  ![Home-movil]("./public/mockups/Responsive-home.jpg")
-  ![Detail-movil]("./public/mockups/Responsive-detail.jpg")
+  ![Home-movil](https://github.com/shirley-startary/pokedex-test/blob/main/public/mockups/Responsive-home.jpg?raw=true)
+  ![Detail-movil](https://github.com/shirley-startary/pokedex-test/blob/main/public/mockups/Responsive-detail.jpg?raw=true)
 
   
