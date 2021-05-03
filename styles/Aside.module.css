@@ -1,0 +1,66 @@
+
+.aside {
+  width: 25%;
+  background: #566CD6;
+  height: 100vh;
+  padding: 10px;
+  float: left;
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 100vh;
+}
+
+.aside {
+  color: white;
+  text-align: center;
+  margin: 0;
+}
+
+
+.logo {
+  width: 80%;
+  padding: 6px 26px;
+  margin: 10px auto;
+  margin-bottom: 40px;
+}
+
+aside .avatar {
+  margin:0 auto ;
+}
+
+aside .user {
+  margin-bottom: 5px;
+}
+
+aside .level {
+  margin-top: 0;
+  font-size: 15px;
+  color:rgba(255, 255, 255, 0.6);
+}
+
+aside .slogan {
+  font-size: 12px;
+  margin-top: 30px;
+  color:rgba(255, 255, 255, 0.6);
+}
+
+aside .button {
+  width: 100%;
+  align-self: flex-end;
+}
+
+.button button {
+  background: rgba(255, 255, 255, 0.4);
+  color: white;
+  border-radius: 3px;
+  border:  rgba(3, 2, 2, 0.4);
+  margin:0 auto;
+  width: 90%;
+  padding: 10px 0px;
+}
+
+@media screen and (max-width:700px ) {
+  .aside {
+    display: none;
+  }
+}
